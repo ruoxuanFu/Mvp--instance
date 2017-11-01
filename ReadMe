@@ -1,0 +1,6 @@
+一种mvp的写法
+由
+private static MainPresenter instance;
+和
+public interface LoadCallBack
+产生关联
